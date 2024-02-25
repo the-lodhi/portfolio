@@ -1,0 +1,159 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+  }
+  html { scroll-behavior:smooth; } 
+  p {font-size: 16px;}
+  .margin {
+          margin-bottom: 45px;
+   }
+  .bg-1 { 
+    background-color: #1abc9c; 
+    color: #ffffff;
+  }
+  .bg-2 { 
+      
+    color:black;
+    line-height:25px;
+  }
+  .bg-3 { 
+    background-color: #ffffff; 
+    color: #555555;
+  }
+  .bg-4 { 
+    background-color: #2f2f2f; 
+    color: #fff;
+  }
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+  }
+  .navbar-nav   a:hover {
+     font-weight: bold;
+  }
+  #margin{
+    background-color:black;
+    color:white;
+    font-size:25px;
+  }
+  .navbar-color{
+    background-color: black !important; 
+  }
+  .navbar-brand{
+    margin-top:-50px;
+  }
+  .navbar-right a{
+    color: white !important;
+    font-size: 15px;
+  }
+  .img-responsive{
+    display: inline !important;
+  }
+  .row{
+    margin-top:30px;
+    cursor: pointer;
+  }
+  .bg-green{
+    background-color:#1abc9c ;
+  }
+  .col-sm-5{
+    padding: 30px;
+  }
+  .submit{
+    margin-top: -40px;
+  }
+
+
+
+footer {
+  background: #16222A;
+  background: -webkit-linear-gradient(59deg, #3A6073, #16222A);
+  background: linear-gradient(59deg, #3A6073, #16222A);
+  color: white;
+  margin-top:100px;
+}
+
+footer a {
+  color: #fff;
+  font-size: 16px;
+  transition-duration: 0.2s;
+}
+
+footer a:hover {
+  color:orangered;
+  text-decoration:underline;
+  transition-duration: 0.50s;
+
+}
+
+.copy {
+  font-size: 12px;
+  padding: 10px;
+  border-top: 1px solid #FFFFFF;
+}
+
+.footer-middle {
+  padding-top: 2em;
+  color: white;
+}
+ul.social-network {
+  list-style: none;
+  display: inline;
+  margin-left: 0 !important;
+  padding: 0;
+}
+
+ul.social-network li {
+  display: inline;
+  margin: 0 5px;
+}
+.social-network a.icoFacebook:hover {
+  background-color: #3B5998;
+}
+
+.social-network a.icoLinkedin:hover {
+  background-color: #007bb7;
+}
+
+.social-network a.icoFacebook:hover i,
+.social-network a.icoLinkedin:hover i {
+  color: #fff;
+}
+
+.social-network a.socialIcon:hover,
+.socialHoverClass {
+  color: #44BCDD;
+}
+
+.social-circle li a {
+  display: inline-block;
+  position: relative;
+  margin: 0 auto 0 auto;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  text-align: center;
+  width: 30px;
+  height: 30px;
+  font-size: 15px;
+}
+
+.social-circle li i {
+  margin: 0;
+  line-height: 30px;
+  text-align: center;
+}
+
+
+  
+
